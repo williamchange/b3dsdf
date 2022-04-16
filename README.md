@@ -1,2 +1,30 @@
 # b3dsdf
-A collection of 2d signed distance functions and operators nodegroups Blender. Also available as an addon which adds a menu in the shader editor.
+
+A collection of 2d signed distance functions and operators nodegroups for Blender 2.83 or above. Also available as an addon which adds a menu in the shader editor.
+
+All nodegroups are already marked as assets so this can also be added as an asset library which can be used with the asset browser in 3.0.
+
+## Available Nodegroups
+
+A list of available nodegroups can be viewed in the shader_nodes.json file. There's currently 39 nodegroups.
+
+## Planned / work in progress
+
+- sdUnevenCapsule
+- sdHorseshoe
+- sdVesica
+- sdRoundedCross
+- sdEgg
+- sdEllipse
+- sdBlobbyCross
+- sdSquareStairs
+- sdStairs
+- sdPolygon (8 Points)
+- sdPolygon (16 Points)
+
+## References
+
+1. [2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
+2. [2D SDF Primitves Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
+3. [Erindale's Toolkit (Add menu logic)](https://erindale.gumroad.com/l/erintools)
+4. [D6464 Blender shader nodes patch(vector operators)](https://developer.blender.org/D6464)
