@@ -6,7 +6,7 @@ All nodegroups are already marked as assets so this can also be added as an asse
 
 ## Available Nodegroups
 
-A list of available nodegroups can be viewed in the shader_nodes.json file. There's currently 39 nodegroups.
+A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 39 nodegroups.
 
 ![SDF_Nodegroups](https://user-images.githubusercontent.com/830253/163679285-1e8ed9e7-03e4-4ef6-b0ac-d0727a75b660.png)
 
