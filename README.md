@@ -8,6 +8,8 @@ All nodegroups are already marked as assets so this can also be added as an asse
 
 A list of available nodegroups can be viewed in the shader_nodes.json file. There's currently 39 nodegroups.
 
+![SDF_Nodegroups](https://user-images.githubusercontent.com/830253/163679285-1e8ed9e7-03e4-4ef6-b0ac-d0727a75b660.png)
+
 ## Planned / work in progress
 
 - sdUnevenCapsule
