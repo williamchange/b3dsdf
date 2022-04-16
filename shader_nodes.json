@@ -16,8 +16,6 @@
     "sdParallelogram",
     "sdPentagon",
     "sdPie",
-    "sdPolygon 4",
-    "sdPolygon 8",
     "sdQuad",
     "sdRhombus",
     "sdRoundBox",
@@ -26,12 +24,15 @@
     "sdStar",
     "sdStar5",
     "sdTrapezoid",
-    "sdTriangle",
-    "sdTriangle Isosceles",
-    "sdTriangle Equilateral",
     "sdTunnel",
     "sdVesica"
   ],
+  "SDF Triangle": [
+    "sdTriangle",
+    "sdTriangle Isosceles",
+    "sdTriangle Equilateral"
+  ],
+  "SDF Polygon": ["sdPolygon 4", "sdPolygon 8"],
   "SDF Operators": [
     "opIntersection",
     "opOnion",
