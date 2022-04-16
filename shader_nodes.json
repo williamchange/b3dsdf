@@ -6,6 +6,7 @@
     "sdCircle",
     "sdCross",
     "sdCutDisk",
+    "sdEgg",
     "sdHeart",
     "sdHexagon",
     "sdHexagram",
@@ -35,12 +36,12 @@
   ],
   "SDF Polygon": ["sdPolygon 4", "sdPolygon 8"],
   "SDF Operators": [
-    "opIntersection",
     "opOnion",
     "opRound",
     "opSmooth Intersection",
     "opSmooth Subtraction",
     "opSmooth Union",
+    "opIntersection",
     "opSubtraction",
     "opUnion"
   ],
