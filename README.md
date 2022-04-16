@@ -1,12 +1,14 @@
 # b3dsdf
 
-b3dsdf is a collection of 2d signed distance functions and operators nodegroups for Blender 2.83 or above. Also available as an addon which adds a menu in the shader editor. These nodegroups are manually translated from code with help of sources listed under [References](https://github.com/williamchange/b3dsdf#references)
+b3dsdf is a collection of 2d signed distance functions and operators nodegroups for Blender 2.83 or above. You can use these by appending the groups from the .blend file or use them with the addon which adds a menu in the shader editor.
 
-All nodegroups were already marked as assets in the .blend file which can be used with the asset browser in 3.0 by adding it as an asset library.
+A list of sources used for implementing the nodegroups/addon can be found under [References](https://github.com/williamchange/b3dsdf#references)
+
+All of these groups were already marked as assets in the .blend file, which can be used with the asset browser in 3.0 by adding it as an asset library.
 
 ## Available Nodegroups
 
-A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 42 nodegroups.
+A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 44 nodegroups.
 
 ![SDF_Nodegroups](https://user-images.githubusercontent.com/830253/163684246-2b791eda-62d5-4ac1-9f4c-a1ab874e473e.png)
 
@@ -14,13 +16,11 @@ A list of available nodegroups can be viewed in the [shader_nodes.json](https://
 
 - sdUnevenCapsule
 - sdHorseshoe
-- sdRoundedCross
 - sdEgg
 - sdEllipse
 - sdBlobbyCross
 - sdSquareStairs
 - sdStairs
-- sdPolygon (16 Points)
 
 ## References
 
