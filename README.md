@@ -27,4 +27,4 @@ A list of available nodegroups can be viewed in the shader_nodes.json file. Ther
 1. [2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
 2. [2D SDF Primitves Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
 3. [Erindale's Toolkit (Add menu logic)](https://erindale.gumroad.com/l/erintools)
-4. [D6464 Blender shader nodes patch(vector operators)](https://developer.blender.org/D6464)
+4. [D6464 Blender SDF patch(vector operators)](https://developer.blender.org/D6464)
