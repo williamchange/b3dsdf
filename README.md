@@ -1,8 +1,8 @@
 # b3dsdf
 
-A collection of 2d signed distance functions and operators nodegroups for Blender 2.83 or above. Also available as an addon which adds a menu in the shader editor.
+b3dsdf is a collection of 2d signed distance functions and operators nodegroups for Blender 2.83 or above. Also available as an addon which adds a menu in the shader editor.
 
-All nodegroups are already marked as assets so this can also be added as an asset library which can be used with the asset browser in 3.0.
+All nodegroups were already marked as assets so this can also be added as an asset library which can be used with the asset browser in 3.0.
 
 ## Available Nodegroups
 
@@ -26,7 +26,7 @@ A list of available nodegroups can be viewed in the [shader_nodes.json](https://
 
 ## References
 
-1. [2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
-2. [2D SDF Primitves Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
+1. [Inigo Quilez's 2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
+2. [Inigo Quilez's 2D SDF Primitves Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
 3. [Erindale's Toolkit (Add menu logic)](https://erindale.gumroad.com/l/erintools)
-4. [D6464 Blender SDF patch(vector operators)](https://developer.blender.org/D6464)
+4. [D6464 Blender SDF patch (Vector operators)](https://developer.blender.org/D6464)
