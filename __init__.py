@@ -38,7 +38,7 @@ shader_cat_list = []
 
 dir_path = os.path.dirname(__file__)
 
-# adapted code from https://github.com/blender/blender/blob/master/release/scripts/modules/nodeitems_utils.py
+# adapted from https://github.com/blender/blender/blob/master/release/scripts/modules/nodeitems_utils.py
 def shader_cat_generator():
     global shader_cat_list
     shader_cat_list = []
@@ -49,9 +49,7 @@ def shader_cat_generator():
             for group_name in sdf_group_cache[self.bl_label]:
                 props = layout.operator(
                     NODE_OT_group_add.bl_idname,
-                    text=group_name.replace("sd", "").replace(
-                        "op", ""
-                    ),  # filter prefixes
+                    text=group_name.replace("sd", "").replace("op", ""),
                 )
                 props.group_name = group_name
 
@@ -59,10 +57,7 @@ def shader_cat_generator():
             "NODE_MT_category_" + item[0],
             (bpy.types.Menu,),
             {
-                "bl_idname": "NODE_MT_category_"
-                + item[0].replace(
-                    " ", "_"
-                ),  # replace whitespace with uderscore to avoid alpha-numeric suffix warning
+                "bl_idname": "NODE_MT_category_" + item[0].replace(" ", "_"),
                 "bl_space_type": "NODE_EDITOR",
                 "bl_label": item[0],
                 "draw": custom_draw,
@@ -70,9 +65,7 @@ def shader_cat_generator():
         )
         if menu_type not in shader_cat_list:
 
-            def generate_menu_draw(
-                name, label
-            ):  # Wrapper function to force unique references
+            def generate_menu_draw(name, label):
                 def draw_menu(self, context):
                     self.layout.menu(name, text=label)
 
@@ -113,9 +106,7 @@ class NODE_OT_group_add(Operator):
         space = context.space_data
         tree = space.edit_tree
 
-        # convert mouse position to the View2D for later node placement
         if context.region.type == "WINDOW":
-            # convert mouse position to the View2D for later node placement
             space.cursor_location_from_region(
                 event.mouse_region_x, event.mouse_region_y
             )
@@ -174,7 +165,7 @@ def register():
     if not hasattr(bpy.types, "NODE_MT_sdf_menu"):
         bpy.utils.register_class(NODE_MT_sdf_menu)
         bpy.types.NODE_MT_add.append(add_sdf_button)
-        bpy.utils.register_class(NODE_OT_group_add)
+    bpy.utils.register_class(NODE_OT_group_add)
 
     shader_cat_generator()
 
@@ -182,8 +173,4 @@ def register():
 def unregister():
     if hasattr(bpy.types, "NODE_MT_sdf_menu"):
         bpy.types.NODE_MT_add.remove(add_sdf_button)
-        bpy.utils.unregister_class(NODE_OT_group_add)
-
-
-if __name__ == "__main__":
-    register()
+    bpy.utils.unregister_class(NODE_OT_group_add)
