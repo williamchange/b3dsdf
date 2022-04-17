@@ -12,7 +12,7 @@ These nodegroups can also be used with the asset browser by adding the .blend as
 
 ## Nodegroups
 
-A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 52 nodegroups. Examples(with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress)
+A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 54 nodegroups. Examples(with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress)
 
 ![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163711732-9491eb94-9ccf-4ad2-895e-93615b30c9e3.png)
 
@@ -20,7 +20,6 @@ A list of available nodegroups can be viewed in the [shader_nodes.json](https://
 
 - sdEllipse
 - sdBlobbyCross
-- sdSquareStairs
 - sdStairs
 
 ## References
