@@ -23,7 +23,6 @@ bl_info = {
 import json
 import bpy
 import os
-import re
 from bpy.types import Operator, Menu
 from bpy.props import StringProperty
 
