@@ -8,7 +8,7 @@ A list of sources used for implementing the nodegroups/addon can be found under 
 
 A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 50 nodegroups.
 
-![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163703720-406bbe6e-0f15-40ab-95d8-fb38fd788b41.png)
+![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163705497-02f7ed1f-32c5-4f83-88f6-70ae10208b75.png)
 
 ## Preview
 
