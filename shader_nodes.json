@@ -41,6 +41,11 @@
     "opSubtraction",
     "opUnion"
   ],
-  "Vector Operators": ["opUV Grid", "opRepeat Infinite", "opRepeat Finite"],
+  "Vector Operators": [
+    "opUV Grid",
+    "opUV Random Rotate",
+    "opRepeat Infinite",
+    "opRepeat Finite"
+  ],
   "Misc": ["sdViewer"]
 }
