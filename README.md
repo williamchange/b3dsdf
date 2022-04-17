@@ -8,7 +8,7 @@ All of these groups were already marked as assets in the .blend file, which can 
 
 ## Nodegroups
 
-A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 47 nodegroups.
+A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 50 nodegroups.
 
 ![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163703038-ff86557c-78ac-43ed-b3d2-6fac3361363c.png)
 
