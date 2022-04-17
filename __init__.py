@@ -12,11 +12,11 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 bl_info = {
-    "name": "2D SDF Nodegroups",
+    "name": "b3dsdf",
     "author": "cmzw",
     "description": "A collection of 2D signed distance functions and utilities",
     "blender": (2, 83, 0),
-    "version": (0, 0, 1),
+    "version": (0, 1, 0),
     "location": "Shader Editor > Add > SDF",
     "category": "Node",
 }
