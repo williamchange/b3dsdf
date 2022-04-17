@@ -31,15 +31,15 @@
   ],
   "Triangle": ["sdTriangle", "sdTriangle Isosceles", "sdTriangle Equilateral"],
   "Polygon": ["sdPolygon 4", "sdPolygon 8"],
-  "Operators": [
+  "SDF Operators": [
     "opOnion",
     "opRound",
-    "opSmooth Intersection",
-    "opSmooth Subtraction",
-    "opSmooth Union",
     "opIntersection",
     "opSubtraction",
-    "opUnion"
+    "opUnion",
+    "opSmooth Intersection",
+    "opSmooth Subtraction",
+    "opSmooth Union"
   ],
   "UV Operators": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
   "Vector Operators": [
