@@ -17,7 +17,7 @@ bl_info = {
     "description": "A collection of 2D signed distance functions and utilities",
     "blender": (2, 83, 0),
     "version": (0, 0, 1),
-    "location": "Shader Nodes Editor > Add > SDF",
+    "location": "Shader Editor > Add > SDF",
     "category": "Node",
 }
 import json
