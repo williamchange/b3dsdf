@@ -44,6 +44,7 @@
   "Vector Operators": [
     "opUV Grid",
     "opUV Random Rotate",
+    "opUV Random Flip",
     "opRepeat Infinite",
     "opRepeat Finite"
   ],
