@@ -1,5 +1,5 @@
 {
-  "SDFs": [
+  "Primitives": [
     "sdArc",
     "sdBezier",
     "sdBox",
@@ -29,13 +29,9 @@
     "sdTunnel",
     "sdVesica"
   ],
-  "SDF Triangle": [
-    "sdTriangle",
-    "sdTriangle Isosceles",
-    "sdTriangle Equilateral"
-  ],
-  "SDF Polygon": ["sdPolygon 4", "sdPolygon 8"],
-  "SDF Operators": [
+  "Triangle": ["sdTriangle", "sdTriangle Isosceles", "sdTriangle Equilateral"],
+  "Polygon": ["sdPolygon 4", "sdPolygon 8"],
+  "Operators": [
     "opOnion",
     "opRound",
     "opSmooth Intersection",
