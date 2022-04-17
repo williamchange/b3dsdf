@@ -26,6 +26,7 @@ import os
 import re
 from bpy.types import Operator, Menu
 from bpy.props import StringProperty
+from mathutils import Vector
 
 
 def add_sdf_button(self, context):
@@ -107,6 +108,21 @@ class NODE_OT_group_add(Operator):
 
     group_name: StringProperty()
 
+    # adapted from https://github.com/blender/blender/blob/master/release/scripts/startup/bl_operators/node.py
+    @staticmethod
+    def store_mouse_cursor(context, event):
+        space = context.space_data
+        tree = space.edit_tree
+
+        # convert mouse position to the View2D for later node placement
+        if context.region.type == "WINDOW":
+            # convert mouse position to the View2D for later node placement
+            space.cursor_location_from_region(
+                event.mouse_region_x, event.mouse_region_y
+            )
+        else:
+            space.cursor_location = tree.view_center
+
     @classmethod
     def poll(cls, context):
         return context.space_data.node_tree
@@ -138,9 +154,16 @@ class NODE_OT_group_add(Operator):
 
         node = context.selected_nodes[0]
         node.node_tree = bpy.data.node_groups[self.group_name]
+
+        node.location = context.space_data.cursor_location
+
         bpy.ops.transform.translate("INVOKE_DEFAULT")
 
         return {"FINISHED"}
+
+    def invoke(self, context, event):
+        self.store_mouse_cursor(context, event)
+        return self.execute(context)
 
 
 def register():
