@@ -30,7 +30,7 @@ from bpy.props import StringProperty
 
 def add_sdf_button(self, context):
     if context.area.ui_type == "ShaderNodeTree":
-        self.layout.menu("NODE_MT_sdf_menu", text="SDF", icon="KEYTYPE_BREAKDOWN_VEC")
+        self.layout.menu("NODE_MT_sdf_menu", text="SDF", icon="CON_TRANSFORM")
 
 
 sdf_group_cache = {}
