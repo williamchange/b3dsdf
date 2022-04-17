@@ -27,6 +27,7 @@
     "sdStar 5",
     "sdTrapezoid",
     "sdTunnel",
+    "sdUneven Capsule",
     "sdVesica"
   ],
   "Triangle": ["sdTriangle", "sdTriangle Isosceles", "sdTriangle Equilateral"],
