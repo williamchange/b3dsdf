@@ -26,7 +26,6 @@ import os
 import re
 from bpy.types import Operator, Menu
 from bpy.props import StringProperty
-from mathutils import Vector
 
 
 def add_sdf_button(self, context):
