@@ -41,10 +41,9 @@
     "opSubtraction",
     "opUnion"
   ],
+  "UV Operators": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
   "Vector Operators": [
-    "opUV Grid",
-    "opUV Random Rotate",
-    "opUV Random Flip",
+    "opPlane Reflect",
     "opRepeat Infinite",
     "opRepeat Finite"
   ],
