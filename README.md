@@ -12,7 +12,7 @@ These nodegroups can also be used with the asset browser by adding the .blend as
 
 ## Nodegroups
 
-A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 55 nodegroups. Examples(with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress)
+A list of available nodegroups (currently at 55) can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. Examples(with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress)
 
 ![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163722690-31c6135c-ecfd-4a8c-aa8d-3eba58c30772.png)
 
@@ -26,4 +26,4 @@ A list of available nodegroups can be viewed in the [shader_nodes.json](https://
 1. [Inigo Quilez's 2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
 2. [Inigo Quilez's 2D SDF Primitves Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
 3. [Erindale's Toolkit (Add menu logic)](https://erindale.gumroad.com/l/erintools)
-4. [D6464 Blender SDF patch (Vector operators)](https://developer.blender.org/D6464)
+4. [D6464 Blender SDF patch (Vector/UV operators)](https://developer.blender.org/D6464)
