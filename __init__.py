@@ -137,7 +137,7 @@ class NODE_OT_group_add(Operator):
                     new_name = node.node_tree.name.split(".")[0]
                     node.node_tree = bpy.data.node_groups[new_name]
         for group in added_groups:
-            if "." in group.name:
+            if "." in group.name and not ".5" in group.name:
                 bpy.data.node_groups.remove(group)
 
         bpy.ops.node.add_node(type="ShaderNodeGroup")
