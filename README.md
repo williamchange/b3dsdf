@@ -6,9 +6,9 @@ A list of sources used for implementing the nodegroups/addon can be found under 
 
 All of these groups were already marked as assets in the .blend file, which can be used with the asset browser in 3.0 by adding it as an asset library.
 
-## Available Nodegroups
+## Nodegroups
 
-A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 44 nodegroups.
+A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 45 nodegroups.
 
 ![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163688040-9625f608-8af5-4afd-a9ee-8141dc46e54f.png)
 
