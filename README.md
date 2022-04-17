@@ -1,16 +1,16 @@
 # b3dsdf
 
-b3dsdf is a collection of 2d signed distance functions and operators nodegroups for Blender 2.83 or above. You can use these by appending the groups from the .blend file or use them with the addon which adds a menu in the shader editor. If you are using 3.0, they can also used with the asset browser by adding the .blend as an asset library (already marked as assets)
+b3dsdf is a collection of 2d signed distance functions and operators nodegroups for Blender 2.83+
 
-A list of sources used for implementing the nodegroups/addon can be found under [References](https://github.com/williamchange/b3dsdf#references)
+You can use these by appending the groups from the .blend file or use them with the addon which adds a menu in the shader editor.
+
+These nodegroups can be used with the asset browser by adding the .blend as an asset library (already marked as assets)
 
 ## Nodegroups
 
 A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 50 nodegroups.
 
 ![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163705497-02f7ed1f-32c5-4f83-88f6-70ae10208b75.png)
-
-## Preview
 
 ## Planned / work in progress
 
