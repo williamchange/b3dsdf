@@ -146,9 +146,7 @@ class NODE_OT_group_add(Operator):
         node.node_tree = bpy.data.node_groups[self.group_name]
 
         node.location = context.space_data.cursor_location
-
         bpy.ops.transform.translate("INVOKE_DEFAULT")
-
         return {"FINISHED"}
 
     def invoke(self, context, event):
