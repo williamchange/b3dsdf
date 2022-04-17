@@ -7,14 +7,14 @@ You can use these by appending from the .blend or use them with the addon which 
 These nodegroups can also be used with the asset browser by adding the .blend as an asset library (already marked as assets)
 
 <p align="center">
-  <img width="800" height="450" src="https://user-images.githubusercontent.com/830253/163708008-8ea814c3-f86f-48c8-835a-322e46d2b1e3.gif">
+  <img src="https://user-images.githubusercontent.com/830253/163708008-8ea814c3-f86f-48c8-835a-322e46d2b1e3.gif">
 </p>
 
 ## Nodegroups
 
 A list of available nodegroups can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. There's currently 55 nodegroups. Examples(with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress)
 
-![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163715250-7b753e10-7c60-44f4-84a6-895cd7dcd306.png)
+![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163722690-31c6135c-ecfd-4a8c-aa8d-3eba58c30772.png)
 
 ## Work in progress
 
