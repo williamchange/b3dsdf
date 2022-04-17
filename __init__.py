@@ -181,7 +181,6 @@ def register():
 
 def unregister():
     if hasattr(bpy.types, "NODE_MT_sdf_menu"):
-        bpy.utils.unregister_class(NODE_MT_sdf_menu)
         bpy.types.NODE_MT_add.remove(add_sdf_button)
         bpy.utils.unregister_class(NODE_OT_group_add)
 
