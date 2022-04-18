@@ -1,6 +1,6 @@
 # b3dsdf
 
-b3dsdf is a collection of 2d signed distance functions and operators nodegroups for Blender 2.83+
+b3dsdf (Blender signed distance functions) is a collection of 2d signed distance functions and operators nodegroups for Blender 2.83+
 
 You can use these by appending from the .blend or use them with the addon which adds a menu in the shader editor.
 
@@ -21,4 +21,4 @@ A list of available nodegroups (currently at 57) can be viewed in the [shader_no
 1. [Inigo Quilez's 2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
 2. [Inigo Quilez's 2D SDF Primitves Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
 3. [Erindale's Toolkit (Add menu logic)](https://erindale.gumroad.com/l/erintools)
-4. [D6464 Blender SDF patch (Vector/UV operators)](https://developer.blender.org/D6464)
+4. [D6464 Blender SDF patch](https://developer.blender.org/D6464)
