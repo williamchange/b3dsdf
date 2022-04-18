@@ -43,13 +43,16 @@
     "opEngrave",
     "opGroove",
     "opTongue",
-    "opIntersection",
-    "opDifference",
+    "_",
     "opUnion",
     "opUnion Round",
-    "opSmooth Intersection",
-    "opSmooth Difference",
-    "opSmooth Union"
+    "opUnion Smooth",
+    "_",
+    "opIntersection Smooth",
+    "opIntersection",
+    "_",
+    "opDifference Smooth",
+    "opDifference"
   ],
   "UV Operators": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
   "Vector Operators": [
