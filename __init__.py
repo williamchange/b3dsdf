@@ -18,6 +18,7 @@ bl_info = {
     "blender": (2, 83, 0),
     "version": (0, 1, 0),
     "location": "Shader Editor > Add > SDF",
+    "tracker_url": "https://github.com/williamchange/b3dsdf/issues/new",
     "category": "Node",
 }
 import json
