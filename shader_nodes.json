@@ -44,11 +44,11 @@
     "opGroove",
     "opTongue",
     "opIntersection",
-    "opSubtraction",
+    "opDifference",
     "opUnion",
     "opUnion Round",
     "opSmooth Intersection",
-    "opSmooth Subtraction",
+    "opSmooth Difference",
     "opSmooth Union"
   ],
   "UV Operators": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
