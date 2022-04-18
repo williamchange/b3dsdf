@@ -46,6 +46,7 @@
     "opIntersection",
     "opSubtraction",
     "opUnion",
+    "opUnion Round",
     "opSmooth Intersection",
     "opSmooth Subtraction",
     "opSmooth Union"
