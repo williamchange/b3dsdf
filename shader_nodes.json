@@ -40,6 +40,9 @@
   "SDF Operators": [
     "opOnion",
     "opRound",
+    "opEngrave",
+    "opGroove",
+    "opTongue",
     "opIntersection",
     "opSubtraction",
     "opUnion",
