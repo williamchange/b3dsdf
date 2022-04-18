@@ -19,7 +19,6 @@ A list of available nodegroups (currently at 56) can be viewed in the [shader_no
 ## Work in progress
 
 - sdEllipse
--
 
 ## References
 
