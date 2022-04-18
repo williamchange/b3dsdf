@@ -19,6 +19,7 @@ bl_info = {
     "version": (0, 1, 0),
     "location": "Shader Editor > Add > SDF",
     "tracker_url": "https://github.com/williamchange/b3dsdf/issues/new",
+    "doc_url": "https://github.com/williamchange/b3dsdf/wiki/Examples",
     "category": "Node",
 }
 import json
