@@ -2,8 +2,8 @@
   "Primitives": [
     "sdArc",
     "sdBezier",
-    "sdBox",
     "sdBlobby Cross",
+    "sdBox",
     "sdCircle",
     "sdCross",
     "sdCut Disk",
