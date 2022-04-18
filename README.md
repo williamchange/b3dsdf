@@ -12,13 +12,9 @@ These nodegroups can also be used with the asset browser by adding the .blend as
 
 ## Nodegroups
 
-A list of available nodegroups (currently at 56) can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. Examples(with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress)
+A list of available nodegroups (currently at 57) can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. Examples(with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress)
 
 ![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163738960-aa0e8615-6f7d-4623-937f-34c1d5a26a00.png)
-
-## Work in progress
-
-- sdEllipse
 
 ## References
 
