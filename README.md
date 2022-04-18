@@ -14,7 +14,7 @@ These nodegroups can also be used with the asset browser by adding the .blend as
 
 A list of available nodegroups (currently at 57) can be viewed in the [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json) file. Examples(with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress)
 
-![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163738960-aa0e8615-6f7d-4623-937f-34c1d5a26a00.png)
+![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163756342-4782c423-53cf-423a-8233-41f1b00d9539.png)
 
 ## References
 
