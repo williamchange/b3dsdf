@@ -61,6 +61,8 @@
   ],
   "UV Operators": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
   "Vector Operators": [
+    "opPolar",
+    "_",
     "opPlane Reflect",
     "opRepeat Infinite",
     "opRepeat Finite"
