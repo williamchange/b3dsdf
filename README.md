@@ -19,7 +19,7 @@ You might have to restart Blender for changes to take effect after installing / 
 
 ## Installation (From source)
 
-If you wish to install from the source directly (i.e. via downloading the zip file), note that the added suffix(`-master`) have to be removed from the zipped folder(within the zip file) for the add-on toe enable properly.
+If you wish to install from the source directly (i.e. via downloading the zip file), note that the added suffix(`-master`) have to be removed from the zipped folder(within the zip file) for the add-on to enable properly.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/830253/164016537-8d820e1e-a311-4f37-953e-10a1eaa3e49d.gif">
