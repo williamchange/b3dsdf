@@ -51,9 +51,11 @@
     "opUnion Smooth",
     "_",
     "opIntersect",
+    "opIntersect Round",
     "opIntersect Smooth",
     "_",
     "opDifference",
+    "opDifference Round",
     "opDifference Smooth"
   ],
   "UV Operators": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
