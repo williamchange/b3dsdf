@@ -22,7 +22,6 @@ A list of available nodegroups can be viewed in [shader_nodes.json](https://gith
 
 ![sdf_nodegroups](https://user-images.githubusercontent.com/830253/163949030-18ecc617-9a11-492b-b78a-8b882096759d.png)
 
-
 ## References
 
 1. [Inigo Quilez's 2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)

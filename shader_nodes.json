@@ -50,11 +50,11 @@
     "opUnion Round",
     "opUnion Smooth",
     "_",
-    "opIntersection Smooth",
-    "opIntersection",
+    "opIntersect",
+    "opIntersect Smooth",
     "_",
-    "opDifference Smooth",
-    "opDifference"
+    "opDifference",
+    "opDifference Smooth"
   ],
   "UV Operators": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
   "Vector Operators": [
