@@ -12,9 +12,18 @@ These nodegroups can also be used with the asset browser by adding the .blend as
 
 ## Installation
 
-Download the latest release zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install the add-on as normal. There's no need to unzip before installation.
+The easiest way to install the add is to download the latest release zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install as normal. There's no need to unzip before installing.
 
-You might have to restart Blender for changes to take effect after installation / uninstallation.
+You might have to restart Blender for changes to take effect after installing / uninstalling.
+
+
+## Installation (From source)
+
+If you wish to install from the source directly (i.e. via downloading the zip file), note that the added suffix(`-master`) have to be removed from the zipped folder for the add-on toe enable properly.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/830253/164016537-8d820e1e-a311-4f37-953e-10a1eaa3e49d.gif">
+</p>
 
 ## Nodegroups
 
