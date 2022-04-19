@@ -12,7 +12,7 @@ These nodegroups can also be used with the asset browser by adding the .blend as
 
 ## Installation
 
-The easiest way to install the add is to download the latest release zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install as normal. There's no need to unzip before installing.
+The easiest way to install the add-on is to download the latest release zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install as normal. There's no need to unzip before installing.
 
 You might have to restart Blender for changes to take effect after installing / uninstalling.
 
