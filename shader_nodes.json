@@ -9,6 +9,7 @@
     "sdCut Disk",
     "sdEgg",
     "sdEllipse",
+    "sdEllipse Newton",
     "sdHeart",
     "sdHexagon",
     "sdHexagram",
@@ -40,6 +41,7 @@
   "SDF Operators": [
     "opOnion",
     "opRound",
+    "_",
     "opEngrave",
     "opGroove",
     "opTongue",
