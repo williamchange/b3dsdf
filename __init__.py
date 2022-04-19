@@ -48,9 +48,6 @@ def shader_cat_generator():
         def custom_draw(self, context):
             layout = self.layout
             for group_name in sdf_group_cache[self.bl_label]:
-                if group_name == "_":
-                    layout.separator(factor=1.0)
-                    continue
                 props = layout.operator(
                     NODE_OT_group_add.bl_idname,
                     text=group_name.replace("sd", "").replace("op", ""),
