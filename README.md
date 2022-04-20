@@ -33,8 +33,8 @@ A list of available nodegroups can be viewed in [shader_nodes.json](https://gith
 
 ## References
 
-1. [Inigo Quilez's 2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
-2. [Inigo Quilez's 2D SDF Primitves Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
-3. [Erindale's Toolkit (Add menu logic)](https://erindale.gumroad.com/l/erintools)
-4. [D6464 Blender SDF patch](https://developer.blender.org/D6464)
-5. [hg_sdf glsl library](https://mercury.sexy/hg_sdf/)
+- [Inigo Quilez's 2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
+- [Inigo Quilez's 2D SDF Primitves Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
+- [Erindale's Toolkit (Add menu logic)](https://erindale.gumroad.com/l/erintools)
+- [D6464 Blender SDF patch](https://developer.blender.org/D6464)
+- [hg_sdf glsl library](https://mercury.sexy/hg_sdf/)
