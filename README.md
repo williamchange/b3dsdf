@@ -16,14 +16,6 @@ The easiest way to install the add-on is to download the latest release zip file
 
 You might have to restart Blender for changes to take effect after installing / uninstalling.
 
-## Installation (From source)
-
-If you wish to install from the source directly (i.e. via downloading the zip file), note that the added suffix(`-master`) have to be removed from the zipped folder(within the zip file) for the add-on to enable properly.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/830253/164016537-8d820e1e-a311-4f37-953e-10a1eaa3e49d.gif">
-</p>
-
 ## Nodegroups
 
 A list of available nodegroups can be viewed in [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json). Examples (with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress).
