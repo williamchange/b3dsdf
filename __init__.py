@@ -97,7 +97,7 @@ class NODE_MT_sdf_menu(Menu):
 class NODE_OT_group_add(Operator):
     """Add a node group"""
 
-    bl_idname = "2dsdf." + os.path.basename(dir_path).lower()
+    bl_idname = "b3dsdf.group_add"
     bl_label = "Add node group"
     bl_description = "Append Node Group"
     bl_options = {"REGISTER", "UNDO"}
