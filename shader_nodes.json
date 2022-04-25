@@ -1,5 +1,5 @@
 {
-  "Primitives": [
+  "Primitives_": [
     "sdArc",
     "sdBezier",
     "sdBlobby Cross",
@@ -38,7 +38,7 @@
     "sdVesica"
   ],
   "Triangle": ["sdTriangle", "sdTriangle Isosceles", "sdTriangle Equilateral"],
-  "Polygon": ["sdPolygon 4", "sdPolygon 8"],
+  "Polygon_": ["sdPolygon 4", "sdPolygon 8"],
   "SDF Operators": [
     "opOnion",
     "opRound",
@@ -68,6 +68,6 @@
     "opRepeat Infinite",
     "opRepeat Finite"
   ],
-  "Vector Conversion": ["opMap -1-1", "opMap -0.5-0.5", "opMap 0-1"],
+  "Vector Conversion_": ["opMap -1-1", "opMap -0.5-0.5", "opMap 0-1"],
   "Misc": ["sdViewer"]
 }

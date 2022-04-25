@@ -71,7 +71,9 @@ def shader_cat_generator():
 
             def generate_menu_draw(name, label):
                 def draw_menu(self, context):
-                    self.layout.menu(name, text=label)
+                    self.layout.menu(name, text=label.split("_")[0])
+                    if "_" in label:
+                        self.layout.separator(factor=1.0)
 
                 return draw_menu
 
