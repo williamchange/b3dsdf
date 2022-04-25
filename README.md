@@ -20,7 +20,7 @@ You might have to restart Blender for changes to take effect after installing / 
 
 A list of available nodegroups can be viewed in [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json). Examples (with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress).
 
-![sdf_nodegroups](https://user-images.githubusercontent.com/830253/164406687-d0859043-69cf-4d89-b313-f1e9e180f77d.png)
+![sdf_nodegroups](https://user-images.githubusercontent.com/830253/165116561-72ac521d-26cc-4d4a-9914-578dd76460dc.png)
 
 ## References
 
