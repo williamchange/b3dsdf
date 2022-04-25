@@ -1,10 +1,10 @@
 # b3dsdf
 
-b3dsdf (blender signed distance functions) is a collection of 2d signed distance functions and operators nodegroups for the shader editor in Blender 2.83+.
+b3dsdf (blender signed distance functions) is a collection of 2D signed distance functions and operators nodegroups for the shader editor in Blender 2.83+.
 
 These nodes can be used by appending from the .blend file or use them with the addon which adds a menu in the shader editor.
 
-These nodegroups can also be used with the asset browser by adding the .blend as an asset library and marking them as assets.
+They can also be used with the asset browser by adding the .blend as an asset library and marking them as assets.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/830253/163708008-8ea814c3-f86f-48c8-835a-322e46d2b1e3.gif">
@@ -12,7 +12,7 @@ These nodegroups can also be used with the asset browser by adding the .blend as
 
 ## Installation
 
-Download the latest release zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install as normal. There's no need to unzip before installing.
+Download the latest zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install as normal. There's no need to unzip before installing.
 
 You might have to restart Blender for changes to take effect after installing / uninstalling.
 
