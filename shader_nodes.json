@@ -42,6 +42,7 @@
   "SDF Operators": [
     "opOnion",
     "opRound",
+    "opHermite Pulse",
     "_",
     "opDivide",
     "opExclusion XOR",
