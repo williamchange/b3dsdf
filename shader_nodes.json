@@ -45,6 +45,7 @@
     "opHermite Pulse",
     "_",
     "opDivide",
+    "opPipe",
     "opExclusion XOR",
     "opEngrave",
     "opGroove",
