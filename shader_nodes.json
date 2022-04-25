@@ -43,6 +43,7 @@
     "opOnion",
     "opRound",
     "_",
+    "opDivide",
     "opExclusion XOR",
     "opEngrave",
     "opGroove",
