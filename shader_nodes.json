@@ -55,14 +55,17 @@
     "opUnion Soft",
     "opUnion Round",
     "opUnion Smooth",
+    "opUnion Stairs",
     "_",
     "opIntersect",
     "opIntersect Round",
     "opIntersect Smooth",
+    "opIntersect Stairs",
     "_",
     "opDifference",
     "opDifference Round",
-    "opDifference Smooth"
+    "opDifference Smooth",
+    "opDifference Stairs"
   ],
   "UV Operators": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
   "Vector Operators": [
