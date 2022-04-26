@@ -40,7 +40,7 @@
   ],
   "Triangle": ["sdTriangle", "sdTriangle Isosceles", "sdTriangle Equilateral"],
   "Polygon_": ["sdPolygon 4", "sdPolygon 8"],
-  "SDF Operators": [
+  "SDF Operators_": [
     "opOnion",
     "opRound",
     "opHermite Pulse",
