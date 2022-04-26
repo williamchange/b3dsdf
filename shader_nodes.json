@@ -56,16 +56,19 @@
     "opUnion Round",
     "opUnion Smooth",
     "opUnion Stairs",
+    "opUnion Chamfer",
     "_",
     "opIntersect",
     "opIntersect Round",
     "opIntersect Smooth",
     "opIntersect Stairs",
+    "opIntersect Chamfer",
     "_",
     "opDifference",
     "opDifference Round",
     "opDifference Smooth",
-    "opDifference Stairs"
+    "opDifference Stairs",
+    "opDifference Chamfer"
   ],
   "UV Operators": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
   "Vector Operators": [
