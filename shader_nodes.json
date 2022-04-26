@@ -42,6 +42,7 @@
   "Polygon_": ["sdPolygon 4", "sdPolygon 8"],
   "SDF Operators_": [
     "opOnion",
+    "opMask",
     "opRound",
     "opHermite Pulse",
     "_",
