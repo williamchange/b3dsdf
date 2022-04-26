@@ -51,11 +51,16 @@ def shader_cat_generator():
                 if group_name == "_":
                     layout.separator(factor=1.0)
                     continue
+                entry = group_name.split("@")
                 props = layout.operator(
                     NODE_OT_group_add.bl_idname,
-                    text=group_name.replace("sd", "").replace("op", ""),
+                    text=entry[0].replace("sd", "").replace("op", ""),
                 )
-                props.group_name = group_name
+                props.group_name = entry[0]
+
+                # Override tooltip
+                if len(entry) > 1:
+                    props.tooltip = entry[1]
 
         menu_type = type(
             "NODE_MT_category_" + item[0],
@@ -105,6 +110,7 @@ class NODE_OT_group_add(Operator):
     bl_options = {"REGISTER", "UNDO"}
 
     group_name: StringProperty()
+    tooltip: StringProperty()
 
     # adapted from https://github.com/blender/blender/blob/master/release/scripts/startup/bl_operators/node.py
     @staticmethod
@@ -122,6 +128,10 @@ class NODE_OT_group_add(Operator):
     @classmethod
     def poll(cls, context):
         return context.space_data.node_tree
+
+    @classmethod
+    def description(self, context, props):
+        return props.tooltip
 
     def execute(self, context):
         old_groups = set(bpy.data.node_groups)

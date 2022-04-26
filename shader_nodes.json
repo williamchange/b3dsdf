@@ -89,6 +89,10 @@
     "opRepeat Finite",
     "opMirror Octant"
   ],
-  "Vector Conversion_": ["opMap -1-1", "opMap -0.5-0.5", "opMap 0-1"],
+  "Vector Conversion_": [
+    "opMap -1-1@Map UV Range [0,1] to [1,1]",
+    "opMap -0.5-0.5@Map UV Range [0,1] to [-0.5,0.5]",
+    "opMap 0-1@Map [-1,1] to UV Range [0,1]"
+  ],
   "Misc": ["sdViewer"]
 }
