@@ -40,7 +40,7 @@
   ],
   "Triangle": ["sdTriangle", "sdTriangle Isosceles", "sdTriangle Equilateral"],
   "Polygon_": ["sdPolygon 4", "sdPolygon 8"],
-  "SDF Operators_": [
+  "SDF Ops": [
     "opOnion",
     "opMask",
     "opRound",
@@ -51,23 +51,26 @@
     "opExclusion XOR",
     "opEngrave",
     "opGroove",
-    "opTongue",
-    "_",
+    "opTongue"
+  ],
+  "SDF Union": [
     "opUnion",
     "opUnion Soft",
     "opUnion Round",
     "opUnion Columns",
     "opUnion Smooth",
     "opUnion Stairs",
-    "opUnion Chamfer",
-    "_",
+    "opUnion Chamfer"
+  ],
+  "SDF Intersection": [
     "opIntersect",
     "opIntersect Round",
     "opIntersect Columns",
     "opIntersect Smooth",
     "opIntersect Stairs",
-    "opIntersect Chamfer",
-    "_",
+    "opIntersect Chamfer"
+  ],
+  "SDF Difference_": [
     "opDifference",
     "opDifference Round",
     "opDifference Columns",
@@ -75,9 +78,9 @@
     "opDifference Stairs",
     "opDifference Chamfer"
   ],
-  "UV Operators": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
-  "Scalar Operators": ["opRepeat Infinite 1D", "opRepeat Finite 1D"],
-  "Vector Operators": [
+  "UV Ops": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
+  "Scalar Ops": ["opRepeat Infinite 1D", "opRepeat Finite 1D"],
+  "Vector Ops": [
     "opPolar",
     "_",
     "opPlane Reflect",
