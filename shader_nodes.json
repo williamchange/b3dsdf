@@ -72,6 +72,7 @@
     "opDifference Chamfer"
   ],
   "UV Operators": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
+  "Scalar Operators": ["opRepeat Infinite 1D"],
   "Vector Operators": [
     "opPolar",
     "_",
