@@ -78,7 +78,11 @@
     "opDifference Stairs",
     "opDifference Chamfer"
   ],
-  "UV Ops": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
+  "UV Ops": [
+    "opUV Grid",
+    "opUV Random Rotate@Rotate UV coordinates by 90 degrees in grid",
+    "opUV Random Flip@Flip and rotate UV coordinates"
+  ],
   "Scalar Ops": ["opRepeat Infinite 1D", "opRepeat Finite 1D"],
   "Vector Ops": [
     "opPolar@Repeat around the origin by a fixed angle",
