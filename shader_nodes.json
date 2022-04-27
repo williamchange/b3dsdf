@@ -42,16 +42,16 @@
   "Polygon_": ["sdPolygon 4", "sdPolygon 8"],
   "SDF Ops": [
     "opOnion",
-    "opMask",
+    "opMask@Create clamped 0-1 mask from negative SDF values",
     "opRound",
-    "opHermite Pulse",
+    "opHermite Pulse@Hermite pulse between min and max SDF values",
     "_",
-    "opDivide",
-    "opPipe",
-    "opExclusion XOR",
-    "opEngrave",
-    "opGroove",
-    "opTongue"
+    "opDivide@Union with gap between SDFs",
+    "opPipe@Produces a cylindical pipe along the intersection",
+    "opExclusion XOR@Union with intersection removed",
+    "opEngrave@Intersection with v-shaped cut out",
+    "opGroove@Intersection with groove cut out",
+    "opTongue@Intersection with tongue cut out"
   ],
   "SDF Union": [
     "opUnion",
@@ -81,13 +81,13 @@
   "UV Ops": ["opUV Grid", "opUV Random Rotate", "opUV Random Flip"],
   "Scalar Ops": ["opRepeat Infinite 1D", "opRepeat Finite 1D"],
   "Vector Ops": [
-    "opPolar",
+    "opPolar@Repeat around the origin by a fixed angle",
     "_",
-    "opPlane Reflect",
-    "opRepeat Infinite",
-    "opRepeat Infinite Mirror",
-    "opRepeat Finite",
-    "opMirror Octant"
+    "opPlane Reflect@Reflect position with a plane and offset",
+    "opRepeat Infinite@Repeat position infinitely with spacing control",
+    "opRepeat Infinite Mirror@Repeat position infinitely but mirror every second cell so all boundaries match",
+    "opRepeat Finite@Repeat position with limits",
+    "opMirror Octant@Mirror in Octant"
   ],
   "Vector Conversion_": [
     "opMap -1-1@Map UV Range [0,1] to [1,1]",
