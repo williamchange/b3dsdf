@@ -43,7 +43,7 @@
   "SDF Ops": [
     "opOnion",
     "opMask@Create clamped 0-1 mask from negative SDF values",
-    "opRound",
+    "opDilate@Grow or shrink SDF boundary",
     "opHermite Pulse@Hermite pulse between min and max SDF values",
     "_",
     "opDivide@Union with gap between SDFs",
