@@ -1,6 +1,7 @@
 {
   "Primitives": [
     "sdArc",
+    "sdArrow",
     "sdBezier",
     "sdBlobby Cross",
     "sdBox",
