@@ -38,7 +38,8 @@
     "sdTunnel",
     "sdUneven Capsule",
     "sdUneven Capsule Y",
-    "sdVesica"
+    "sdVesica",
+    "sdWedge"
   ],
   "Triangle": ["sdTriangle", "sdTriangle Isosceles", "sdTriangle Equilateral"],
   "Polygon_": ["sdPolygon 4", "sdPolygon 8"],
