@@ -62,11 +62,13 @@ def shader_cat_generator():
                 if len(entry) > 1:
                     props.tooltip = entry[1]
 
+        itemid = item[0].split("_")[0]
+
         menu_type = type(
-            "NODE_MT_category_" + item[0],
+            "NODE_MT_category_" + itemid,
             (bpy.types.Menu,),
             {
-                "bl_idname": "NODE_MT_category_" + item[0].replace(" ", "_"),
+                "bl_idname": "NODE_MT_category_" + itemid.replace(" ", "_"),
                 "bl_space_type": "NODE_EDITOR",
                 "bl_label": item[0],
                 "draw": custom_draw,
