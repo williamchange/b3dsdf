@@ -1,4 +1,4 @@
-# b3dsdf
+# b3dsdf 🧰
 
 b3dsdf (blender signed distance functions) is a collection of 2D signed distance functions and operators nodegroups for the shader editor in Blender 2.83+.
 
@@ -18,7 +18,7 @@ Download the latest zip file from the [release page](https://github.com/williamc
 
 The full list of nodegroups can be viewed in [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json). Examples (with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress).
 
-![sdf_nodegroups](https://user-images.githubusercontent.com/830253/165707628-7ab986b3-bd67-4631-ad0b-3ff8eadd498a.png)
+![sdf_nodegroups](https://user-images.githubusercontent.com/830253/165975456-966fdc7d-4118-4195-8153-bcdee73df66d.png)
 
 ## References
 
