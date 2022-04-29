@@ -51,6 +51,7 @@
     "opOnion",
     "opMask@Create clamped 0-1 mask from negative SDF values",
     "opFlatten@Clamp range and map to [0-1] range",
+    "opInvert@Invert SDF values",
     "opDilate@Grow or shrink SDF boundary",
     "opHermite Pulse@Hermite pulse between min and max SDF values",
     "_",
