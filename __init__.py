@@ -51,6 +51,9 @@ def shader_cat_generator():
                 if group_name == "_":
                     layout.separator(factor=1.0)
                     continue
+                if group_name.startswith("+"):
+                    layout.label(text=group_name.split("+")[-1])
+                    continue
                 entry = group_name.split("@")
                 props = layout.operator(
                     NODE_OT_group_add.bl_idname,
