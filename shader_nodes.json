@@ -102,7 +102,9 @@
     "opRepeat Infinite@Repeat position infinitely with spacing control",
     "opRepeat Infinite Mirror@Repeat position infinitely but mirror every second cell so all boundaries match",
     "opRepeat Finite@Repeat position with limits",
-    "opMirror Octant@Mirror in Octant"
+    "opMirror Octant@Mirror in Octant",
+    "_",
+    "opBend@Bend position"
   ],
   "Vector Conversion_": [
     "opMap -1-1@Map UV Range [0,1] to [1,1]",
