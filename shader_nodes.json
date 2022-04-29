@@ -53,9 +53,10 @@
     "opDilate@Grow or shrink SDF boundary",
     "opHermite Pulse@Hermite pulse between min and max SDF values",
     "_",
+    "opBlend@Blend between SDF values",
+    "opExclusion XOR@Union with intersection removed",
     "opDivide@Union with gap between SDFs",
     "opPipe@Produces a cylindical pipe along the intersection",
-    "opExclusion XOR@Union with intersection removed",
     "opEngrave@Intersection with v-shaped cut out",
     "opGroove@Intersection with groove cut out",
     "opTongue@Intersection with tongue cut out"
