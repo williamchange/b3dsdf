@@ -18,7 +18,7 @@ Download the latest zip file from the [release page](https://github.com/williamc
 
 The full list of nodegroups can be viewed in [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json). Examples (with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress).
 
-![sdf_nodegroups](https://user-images.githubusercontent.com/830253/165975456-966fdc7d-4118-4195-8153-bcdee73df66d.png)
+![sdf_nodegroups](https://user-images.githubusercontent.com/830253/165978733-3ed85552-1523-4fb2-830d-383e881fef7e.png)
 
 ## References
 
