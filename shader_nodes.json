@@ -59,7 +59,7 @@
     "opBlend@Blend between SDF values",
     "opExclusion XOR@Union with intersection removed",
     "opDivide@Union with gap between SDFs",
-    "opPipe@Produces a cylindical pipe along the intersection",
+    "opPipe@Produces a cylindrical pipe along the intersection",
     "opEngrave@Intersection with v-shaped cut out",
     "opGroove@Intersection with groove cut out",
     "opTongue@Intersection with tongue cut out"
