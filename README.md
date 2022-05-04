@@ -22,6 +22,7 @@ The full list of nodegroups can be viewed in [shader_nodes.json](https://github.
 
 ## References
 
+- [Additonal references / Shadertoy playlist](https://www.shadertoy.com/playlist/7cjGR1)
 - [Inigo Quilez's 2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
 - [Inigo Quilez's 2D SDF Primitves Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
 - [Erindale's Toolkit (Add menu logic)](https://erindale.gumroad.com/l/erintools)
