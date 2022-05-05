@@ -116,7 +116,8 @@
     "opRepeat Finite@Repeat position with limits",
     "opMirror Octant@Mirror in Octant",
     "_",
-    "opBend@Bend position"
+    "opBend@Bend position",
+    "opSwirl@Swirl around XY"
   ],
   "Vector Conversion_": [
     "opMap -1-1@Map UV Range [0,1] to [1,1]",
