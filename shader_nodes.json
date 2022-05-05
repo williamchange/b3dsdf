@@ -104,7 +104,8 @@
   "Scalar Ops": [
     "opRepeat Infinite 1D",
     "opRepeat Infinite Mirror 1D",
-    "opRepeat Finite 1D"
+    "opRepeat Finite 1D",
+    "opMirror 1D@Mirror at an axis-aligned plane which is at a specified distance from the origin"
   ],
   "Vector Ops": [
     "opPolar@Repeat around the origin by a fixed angle",
