@@ -57,7 +57,7 @@
         "sdTriangle Equilateral"
     ],
     "Polygon_": ["sdPolygon 4", "sdPolygon 8"],
-    "Patterns_": ["sdRunes", "sdTruchet Round"],
+    "Patterns_": ["sdRunes", "sdTruchet"],
     "SDF Ops": [
         "+1 Input SDF Operators",
         "opOnion",
