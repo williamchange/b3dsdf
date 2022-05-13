@@ -14,7 +14,7 @@
 bl_info = {
     "name": "b3dsdf",
     "author": "cmzw",
-    "description": "A collection of 2D signed distance functions and utilities",
+    "description": "A toolkit of 2D SDF/OPs and utilities",
     "blender": (2, 83, 0),
     "version": (0, 6, 0),
     "location": "Shader Editor > Add > SDF",
