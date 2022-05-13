@@ -1,6 +1,6 @@
 # b3dsdf 🧰
 
-b3dsdf (blender signed distance functions) is a toolkit of 2D signed distance functions and operators nodegroups for the shader editor in Blender 2.83+.
+b3dsdf (blender signed distance functions) is a toolkit of 2D/3D signed distance functions and operators nodegroups for the shader editor in Blender 2.83+.
 
 These nodes can be used by appending from the .blend file or use them with the addon which adds a menu in the shader editor.
 
