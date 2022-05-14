@@ -25,6 +25,7 @@ The full list of nodegroups can be viewed in [shader_nodes.json](https://github.
 - [Erindale's Toolkit (original add menu logic)](https://erindale.gumroad.com/l/erintools)
 - [Additonal references / Shadertoy playlist](https://www.shadertoy.com/playlist/7cjGR1)
 - [Inigo Quilez's 3D Distance Functions](https://iquilezles.org/articles/distfunctions/)
+- [Inigo Quilez's 3D SDF Primitves / Shadertoy playlist](https://www.shadertoy.com/playlist/43cXRl)
 - [Inigo Quilez's 2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
 - [Inigo Quilez's 2D SDF Primitves / Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
 - [D6464 Blender SDF patch](https://developer.blender.org/D6464)
