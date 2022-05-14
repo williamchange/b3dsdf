@@ -58,7 +58,7 @@
     ],
     "Polygon": ["sdPolygon 4", "sdPolygon 8"],
     "Patterns_": ["sdRunes", "sdTruchet"],
-    "3D Primitives_": ["sdBox3D", "sdSphere"],
+    "3D Primitives_": ["sdBox3D", "sdSphere", "sdTorus"],
     "SDF Ops": [
         "+1 Input SDF Operators",
         "opOnion",
