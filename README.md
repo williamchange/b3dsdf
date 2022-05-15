@@ -12,13 +12,13 @@ These nodes can be used by appending from the .blend file or use them with the a
 
 Download the latest zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install as normal. There's no need to unzip before installing. You might have to restart Blender for changes to take effect after installing / uninstalling.
 
-Alternatively you have the option to install directly from source (code > download zip, or via repo cloning). Do note that changes might not be finalized before a release.
+Alternatively you have the option to install directly from source (code > download zip, or via repo cloning) which will contain new features/nodes. Do note that changes might not be finalized before a release.
 
 ## Nodegroups
 
 List of available nodegroups can be found in [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json). Examples (with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress).
 
-![sdf_nodegroups](https://user-images.githubusercontent.com/830253/168459185-82efacb0-87a8-4ee3-847b-c835b659a3a5.png)
+![sdf_nodegroups](https://user-images.githubusercontent.com/830253/168462498-19cd9d93-9212-48d6-a7ff-876a1f22fbc7.png)
 
 ## References
 
