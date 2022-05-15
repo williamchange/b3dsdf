@@ -62,6 +62,7 @@
         "sdBezier",
         "sdBox3D",
         "sdBox Frame",
+        "sdCapped Torus",
         "sdLink",
         "sdSphere",
         "sdSegment",
