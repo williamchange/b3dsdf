@@ -64,6 +64,7 @@
         "sdBox Frame",
         "sdLink",
         "sdSphere",
+        "sdSegment",
         "sdTorus"
     ],
     "SDF Ops": [
