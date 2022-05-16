@@ -63,6 +63,7 @@
         "sdBox3D",
         "sdBox Frame",
         "sdCapped Torus",
+        "sdEllipsoid",
         "sdLink",
         "sdSphere",
         "sdSegment",
