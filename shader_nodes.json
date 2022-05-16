@@ -126,6 +126,8 @@
         "opMirror 1D@Mirror at an axis-aligned plane which is at a specified distance from the origin"
     ],
     "Vector Ops": [
+        "opSwizzle@Swizzle axis",
+        "_",
         "opPolar@Repeat around the origin by a fixed angle",
         "_",
         "opPlane Reflect@Reflect position with a plane and offset",
