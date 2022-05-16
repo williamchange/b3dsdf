@@ -126,6 +126,7 @@
         "opMirror 1D@Mirror at an axis-aligned plane which is at a specified distance from the origin"
     ],
     "Vector Ops": [
+        "opExtrude",
         "opSwizzle@Swizzle axis",
         "opSpin@Spin position around axis",
         "_",
