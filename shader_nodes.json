@@ -127,6 +127,7 @@
     ],
     "Vector Ops": [
         "opSwizzle@Swizzle axis",
+        "opSpin@Spin position around axis",
         "_",
         "opPolar@Repeat around the origin by a fixed angle",
         "_",
