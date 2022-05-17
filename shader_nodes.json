@@ -65,8 +65,9 @@
         "sdCapped Torus",
         "sdEllipsoid",
         "sdLink",
-        "sdSphere",
         "sdSegment",
+        "sdSolid Angle",
+        "sdSphere",
         "sdTorus",
         "sdVertical Segment",
         "sdVertical Cylinder"
