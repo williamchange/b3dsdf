@@ -130,6 +130,7 @@
         "opExtrude",
         "opSwizzle@Swizzle axis",
         "opSpin@Spin position around axis",
+        "opRadial Shear@Radially shear around XY",
         "_",
         "opPolar@Repeat around the origin by a fixed angle",
         "_",
