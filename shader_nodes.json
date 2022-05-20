@@ -127,22 +127,20 @@
         "opMirror 1D@Mirror at an axis-aligned plane which is at a specified distance from the origin"
     ],
     "Vector Ops": [
+        "opBend@Bend position",
         "opExtrude",
+        "opRadial Shear@Radially shear around XY",
         "opSwizzle@Swizzle axis",
         "opSpin@Spin position around axis",
-        "opRadial Shear@Radially shear around XY",
+        "opSwirl@Swirl around XY",
         "opTwist@Twist around XY",
         "_",
         "opPolar@Repeat around the origin by a fixed angle",
-        "_",
         "opPlane Reflect@Reflect position with a plane and offset",
         "opRepeat Infinite@Repeat position infinitely with spacing control",
         "opRepeat Infinite Mirror@Repeat position infinitely but mirror every second cell so all boundaries match",
         "opRepeat Finite@Repeat position with limits",
-        "opMirror Octant@Mirror in Octant",
-        "_",
-        "opBend@Bend position",
-        "opSwirl@Swirl around XY"
+        "opMirror Octant@Mirror in Octant"
     ],
     "Vector Conversion_": [
         "opMap -1-1@Map UV Range [0,1] to [1,1]",
