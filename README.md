@@ -35,5 +35,5 @@ List of available nodegroups can be found in [shader_nodes.json](https://github.
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [The Art of Code's Raymarching for Dummies Tutorial](https://www.youtube.com/watch?v=PGtv-dBi2wE)
 - [Electric Square's Raymarching workshop](https://github.com/electricsquare/raymarching-workshop)
-- [HotDogNugget's Raymarching Thread](https://twitter.com/HotdogNugget/status/1510464077478256643)
-- [Wannes Malfait's Raymarching Tutorial](https://www.youtube.com/watch?v=aBf3FV97rJY)
+- [HotDogNugget's Raymarching Thread (Nodes)](https://twitter.com/HotdogNugget/status/1510464077478256643)
+- [Wannes Malfait's Raymarching Tutorial (Nodes)](https://www.youtube.com/watch?v=aBf3FV97rJY)
