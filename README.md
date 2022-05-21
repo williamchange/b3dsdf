@@ -30,3 +30,9 @@ List of available nodegroups can be found in [shader_nodes.json](https://github.
 - [Inigo Quilez's 2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
 - [Inigo Quilez's 2D SDF Primitves / Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
 - [hg_sdf glsl library](https://mercury.sexy/hg_sdf/)
+
+## Learning Resources
+- [The Book of Shaders](https://thebookofshaders.com/)
+- [The Art of Code's Raymarching for Dummies Tutorial](https://www.youtube.com/watch?v=PGtv-dBi2wE)
+- [HotDogNugget's Raymarching Thread](https://twitter.com/HotdogNugget/status/1510464077478256643)
+- [Wannes Malfait's Raymarching Tutorial](https://www.youtube.com/watch?v=aBf3FV97rJY)
