@@ -64,6 +64,7 @@
         "sdBox Frame",
         "sdCapped Torus",
         "sdCut Hollow Sphere",
+        "sdCut Sphere",
         "sdEllipsoid",
         "sdLink",
         "sdSegment",
