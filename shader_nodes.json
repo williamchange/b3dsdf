@@ -67,6 +67,7 @@
         "sdCut Sphere",
         "sdEllipsoid",
         "sdLink",
+        "sdOctahedron",
         "sdSegment",
         "sdSolid Angle",
         "sdSphere",
