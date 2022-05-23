@@ -5,7 +5,7 @@ b3dsdf (blender signed distance functions) is a toolkit of 2D/3D signed distance
 These nodes can be used by appending from the .blend file or use them with the addon which adds a menu in the shader editor. They can also be used with the asset browser by adding the .blend as an asset library and marking them as assets.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/830253/165154162-406dca54-cd5c-43df-9bee-9344113d2f13.gif">
+  <img src="https://user-images.githubusercontent.com/830253/169821105-1d13020e-6895-4402-aa0c-2c94db69867f.gif">
 </p>
 
 ## Installation
