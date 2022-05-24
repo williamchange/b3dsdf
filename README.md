@@ -18,7 +18,7 @@ Alternatively you have the option to install directly from source (code > downlo
 
 List of available nodegroups can be found in [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json). Examples (with images) can be found in the [wiki page](https://github.com/williamchange/b3dsdf/wiki/Examples) (work in progress).
 
-![sdf_nodegroups](https://user-images.githubusercontent.com/830253/169637834-0cbf72b3-7ecc-410a-9f3b-696d529cc761.png)
+![sdf_nodegroups](https://user-images.githubusercontent.com/830253/169974695-01ab4186-74fb-4aef-b60f-be7c114fa838.png)
 
 ## References
 
