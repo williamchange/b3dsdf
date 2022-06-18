@@ -8,6 +8,10 @@ These nodes can be used by appending from the .blend file or use them with the a
   <img src="https://user-images.githubusercontent.com/830253/169821105-1d13020e-6895-4402-aa0c-2c94db69867f.gif">
 </p>
 
+## Geometry Nodes (Volume Cube)
+
+As of the [D15198](https://developer.blender.org/D15198) patch it is now possible to use the SDF nodes/operators from this pack via their Geometry Nodes equivalents in Blender 3.3 Alpha. Currently there's no plans to maintain another set of nodes/add-on but they can be converted for use from shader nodes using the add-on mentioned in this [twitter thread](https://twitter.com/cmzw_/status/1538146026296836096) by [Val Barashkov](https://twitter.com/ValeraBarashkov).
+
 ## Installation
 
 Download the latest zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install as normal. There's no need to unzip before installing. You might have to restart Blender for changes to take effect after installing / uninstalling.
