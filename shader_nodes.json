@@ -65,7 +65,7 @@
     "Patterns_": ["sdRunes", "sdTruchet"],
     "3D Primitives_": [
         "sdBezier",
-        "sdBox3D",
+        "sdBox 3D",
         "sdBox Frame",
         "sdCapped Torus",
         "sdCut Hollow Sphere",
