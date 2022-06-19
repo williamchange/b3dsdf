@@ -37,7 +37,7 @@ List of available nodegroups can be found in [shader_nodes.json](https://github.
 - [Inigo Quilez's 2D SDF Primitves / Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
 - [hg_sdf glsl library](https://mercury.sexy/hg_sdf/)
 
-## Learning Resources
+## Resources
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [The Art of Code's Raymarching for Dummies Tutorial](https://www.youtube.com/watch?v=PGtv-dBi2wE)
 - [Electric Square's Raymarching workshop](https://github.com/electricsquare/raymarching-workshop)
