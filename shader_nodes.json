@@ -72,6 +72,7 @@
         "sdCut Sphere",
         "sdEllipsoid",
         "sdInfinite Cylinder",
+        "sdInfinite Cone",
         "sdLink",
         "sdOctahedron",
         "sdPlane",
