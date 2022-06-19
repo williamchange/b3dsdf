@@ -74,6 +74,7 @@
         "sdInfinite Cylinder",
         "sdLink",
         "sdOctahedron",
+        "sdPlane",
         "sdSegment",
         "sdSolid Angle",
         "sdSphere",
