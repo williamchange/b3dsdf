@@ -65,7 +65,7 @@
     "Patterns_": ["sdRunes", "sdTruchet"],
     "3D Primitives_": [
         "sdBezier",
-        "sdBox 3D",
+        "sdBox3D",
         "sdBox Frame",
         "sdCapped Torus",
         "sdCut Hollow Sphere",
@@ -80,7 +80,7 @@
         "sdSolid Angle",
         "sdSphere",
         "sdTorus",
-        "sdTriangle 3D",
+        "sdTriangle3D",
         "sdVertical Segment",
         "sdVertical Cylinder"
     ],
