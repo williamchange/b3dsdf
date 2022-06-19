@@ -80,6 +80,7 @@
         "sdSolid Angle",
         "sdSphere",
         "sdTorus",
+        "sdTriangle 3D",
         "sdVertical Segment",
         "sdVertical Cylinder"
     ],
