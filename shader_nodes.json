@@ -56,7 +56,12 @@
         "sdVesica",
         "sdWedge"
     ],
-    "2D Primitives L-inf": ["sdBoxLN", "sdCircleLN", "sdEllipseLN"],
+    "2D Primitives L-inf": [
+        "sdBoxLN",
+        "sdCircleLN",
+        "sdEllipseLN",
+        "sdParabolaLN"
+    ],
     "Triangle": [
         "sdTriangle",
         "sdTriangle Isosceles",
