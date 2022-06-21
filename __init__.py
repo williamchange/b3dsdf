@@ -57,7 +57,11 @@ def shader_cat_generator():
                 entry = group_name.split("@")
                 props = layout.operator(
                     NODE_OT_group_add.bl_idname,
-                    text=entry[0].replace("sd", "").replace("op", "").replace("3D", ""),
+                    text=entry[0]
+                    .replace("sd", "")
+                    .replace("op", "")
+                    .replace("3D", "")
+                    .replace("LN", ""),
                 )
                 props.group_name = entry[0]
 
