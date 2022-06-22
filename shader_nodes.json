@@ -63,7 +63,7 @@
         "sdLineLN",
         "sdParabolaLN",
         "sdParabola SegmentLN",
-        "sdRoundBoxLN"
+        "sdRound BoxLN"
     ],
     "Triangle": [
         "sdTriangle",
