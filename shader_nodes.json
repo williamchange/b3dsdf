@@ -60,6 +60,7 @@
         "sdBoxLN",
         "sdCircleLN",
         "sdEllipseLN",
+        "sdLineLN",
         "sdParabolaLN",
         "sdParabola SegmentLN"
     ],
