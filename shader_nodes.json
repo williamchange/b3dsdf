@@ -151,6 +151,7 @@
     ],
     "Vector Ops": [
         "opBend@Bend position",
+	"opElongate",
         "opExtrude",
         "opRadial Shear@Radially shear around XY",
         "opSwizzle@Swizzle axis",
