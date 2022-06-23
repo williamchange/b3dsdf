@@ -92,6 +92,7 @@
         "sdSphere",
         "sdTorus",
         "sdTriangle3D",
+	"sdTri Prism",
         "sdVertical Segment",
         "sdVertical Cylinder"
     ],
