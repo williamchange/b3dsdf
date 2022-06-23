@@ -86,6 +86,7 @@
         "sdLink",
         "sdOctahedron",
         "sdPlane",
+	"sdRounded Cylinder",
         "sdSegment",
         "sdSolid Angle",
         "sdSphere",
