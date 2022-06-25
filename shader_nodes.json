@@ -95,8 +95,9 @@
         "sdTorus",
         "sdTriangle3D",
         "sdTri Prism",
-        "sdVertical Segment",
-        "sdVertical Cylinder"
+        "sdVertical Cylinder",
+        "sdVertical Round Cone",
+        "sdVertical Segment"
     ],
     "SDF Ops": [
         "+1 Input SDF Operators",
