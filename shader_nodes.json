@@ -81,6 +81,7 @@
         "sdCut Hollow Sphere",
         "sdCut Sphere",
         "sdEllipsoid",
+	"sdHex Prism",
         "sdInfinite Cylinder",
         "sdInfinite Cone",
         "sdLink",
