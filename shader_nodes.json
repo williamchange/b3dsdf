@@ -96,6 +96,7 @@
         "sdTriangle3D",
         "sdTri Prism",
         "sdVertical Cylinder",
+        "sdVertical Capped Cone",
         "sdVertical Round Cone",
         "sdVertical Segment"
     ],
