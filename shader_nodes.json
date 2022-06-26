@@ -78,6 +78,7 @@
         "sdBox3D",
         "sdBox Frame",
         "sdCapped Torus",
+        "sdCone",
         "sdCut Hollow Sphere",
         "sdCut Sphere",
         "sdDeath Star",
