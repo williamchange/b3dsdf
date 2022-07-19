@@ -32,9 +32,7 @@ List of available nodegroups can be found in [shader_nodes.json](https://github.
 - [D6464 Blender SDF patch](https://developer.blender.org/D6464)
 - [Additonal references / Shadertoy playlist](https://www.shadertoy.com/playlist/7cjGR1)
 - [Inigo Quilez - 3D Distance Functions](https://iquilezles.org/articles/distfunctions/)
-- [Inigo Quilez - 3D SDF Primitves / Shadertoy playlist](https://www.shadertoy.com/playlist/43cXRl)
 - [Inigo Quilez - 2D Distance Functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
-- [Inigo Quilez - 2D SDF Primitves / Shadertoy playlist](https://www.shadertoy.com/playlist/MXdSRf)
 - [Inigo Quilez - 2D distance functions in L-infinity norm](https://iquilezles.org/articles/distfunctions2dlinf/)
 - [hg_sdf glsl library](https://mercury.sexy/hg_sdf/)
 
