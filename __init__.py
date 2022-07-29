@@ -55,14 +55,13 @@ def shader_cat_generator():
                     layout.label(text=group_name.split("+")[-1])
                     continue
                 entry = group_name.split("@")
-                props = layout.operator(
-                    NODE_OT_group_add.bl_idname,
-                    text=entry[0]
-                    .replace("sd", "")
-                    .replace("op", "")
-                    .replace("3D", "")
-                    .replace("LN", ""),
-                )
+
+                # remove prefix in menu
+                group_label = entry[0]
+                for prefix in ["sd", "op", "3D", "LN"]:
+                    group_label.replace(prefix, "")
+                props = layout.operator(NODE_OT_group_add.bl_idname, text=group_label)
+
                 props.group_name = entry[0]
 
                 # Override tooltip
