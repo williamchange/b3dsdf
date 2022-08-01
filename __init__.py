@@ -36,13 +36,18 @@ def add_sdf_button(self, context):
 
 sdf_group_cache = {}
 shader_cat_list = []
+draw_menu_functions = []
 
 dir_path = os.path.dirname(__file__)
 
 # adapted from https://github.com/blender/blender/blob/master/release/scripts/modules/nodeitems_utils.py
 def shader_cat_generator():
     global shader_cat_list
+    global draw_menu_functions
+
     shader_cat_list = []
+    draw_menu_functions = []
+
     for item in sdf_group_cache.items():
 
         def custom_draw(self, context):
@@ -92,9 +97,10 @@ def shader_cat_generator():
                 return draw_menu
 
             bpy.utils.register_class(menu_type)
-            bpy.types.NODE_MT_sdf_menu.append(
-                generate_menu_draw(menu_type.bl_idname, menu_type.bl_label)
-            )
+            draw_menu = generate_menu_draw(menu_type.bl_idname, menu_type.bl_label)
+            bpy.types.NODE_MT_sdf_menu.append(draw_menu)
+
+            draw_menu_functions.append(draw_menu)
             shader_cat_list.append(menu_type)
 
 
@@ -194,6 +200,10 @@ def register():
 
 
 def unregister():
+    for func in draw_menu_functions:
+        bpy.types.NODE_MT_sdf_menu.remove(func)
+
     if hasattr(bpy.types, "NODE_MT_sdf_menu"):
         bpy.types.NODE_MT_add.remove(add_sdf_button)
+        bpy.utils.unregister_class(NODE_MT_sdf_menu)
     bpy.utils.unregister_class(NODE_OT_group_add)
