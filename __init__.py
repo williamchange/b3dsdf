@@ -16,7 +16,7 @@ bl_info = {
     "author": "cmzw",
     "description": "A toolkit of signed distance functions, operators and utility nodegroups",
     "blender": (2, 83, 0),
-    "version": (0, 9, 0),
+    "version": (0, 9, 1),
     "location": "Shader Editor > Add > SDF",
     "tracker_url": "https://github.com/williamchange/b3dsdf/issues/new",
     "doc_url": "https://github.com/williamchange/b3dsdf/wiki/Examples",
