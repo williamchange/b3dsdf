@@ -18,7 +18,7 @@ Currently there's no plans to maintain another set of nodes/add-on but they can 
 
 Download the latest zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install as normal. There's no need to unzip before installing. You might have to restart Blender for changes to take effect after installing / uninstalling.
 
-Alternatively you have the option to install directly from source (code > download zip, or via repo cloning) which might include new features/nodes. Do note that the changes might not be finalized before a release.
+Alternatively you have the option to install directly from source (code > download zip, or via repo cloning) which might include new features/nodes.
 
 ## Nodegroups
 
