@@ -10,7 +10,7 @@ These nodes can be used by appending from the .blend file or use them with the a
 
 ## Geometry Nodes (Volume Cube)
 
-As of [D15198](https://developer.blender.org/D15198) it is now possible to use the SDF nodes/operators from this pack via their Geometry Nodes equivalents in Blender 3.3 or above ([more details](https://twitter.com/lateasusual_/status/1537792086719795201))
+As of [D15198](https://developer.blender.org/D15198) it also possible to use the SDF nodes/operators from this pack via their Geometry Nodes equivalents in Blender 3.3 or above ([more details](https://twitter.com/lateasusual_/status/1537792086719795201))
 
 Currently there are no plans to maintain another set of nodes/add-on but they can be converted for use with the [blender booster add-on](https://vsb.gumroad.com/l/blender_booster) by [Val Barashkov](https://twitter.com/ValeraBarashkov).
 
