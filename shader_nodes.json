@@ -120,6 +120,7 @@
         "opHermite Pulse@Hermite pulse between min and max SDF values",
         "_",
         "+2 Input SDF Operators",
+        "opXor",
         "opBlend@Blend between SDF values",
         "opExclusion XOR@Union with intersection removed",
         "opDivide@Union with gap between SDFs",
