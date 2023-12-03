@@ -13,7 +13,7 @@
 
 bl_info = {
     "name": "b3dsdf",
-    "author": "cmzw",
+    "author": "williamchange",
     "description": "A toolkit of signed distance functions, operators and utility nodegroups",
     "blender": (2, 83, 0),
     "version": (0, 9, 2),
