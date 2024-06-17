@@ -12,7 +12,7 @@ These nodes can be used by appending from the .blend file or use them with the a
 
 As of [D15198](https://developer.blender.org/D15198) it's also possible to use the SDF nodes/operators from this pack via their Geometry Nodes equivalents in Blender 3.3 or above ([more details](https://twitter.com/lateasusual_/status/1537792086719795201))
 
-The shader nodes in this pack can't be used directly, but it's possible to convert them for use with an add-on, for example [Val Barashkov's](https://twitter.com/ValeraBarashkov) ['Blender Booster' add-on](https://vsb.gumroad.com/l/blender_booster).
+The shader nodes in this pack can't be used directly, but it's possible to convert them for use with an add-on, for example [Val Barashkov's](https://twitter.com/ValeraBarashkov) [Blender Booster](https://vsb.gumroad.com/l/blender_booster).
 
 ## Installation
 
