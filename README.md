@@ -8,6 +8,12 @@ These nodes can be used by appending from the .blend file or use them with the a
   <img src="https://user-images.githubusercontent.com/830253/169821105-1d13020e-6895-4402-aa0c-2c94db69867f.gif">
 </p>
 
+## License
+
+The GPLv3 license(see [LICENSE](LICENSE)) only applies to the python add-on source code.
+
+Included asset file (`sdf_nodegroups.blend`) in this repository is under [Creative Commons Zero / CC0](https://creativecommons.org/publicdomain/zero/1.0/). For details see [LICENSE_ASSET](LICENSE_ASSET).
+
 ## Geometry Nodes (Volume Cube)
 
 As of [D15198](https://developer.blender.org/D15198) it's also possible to use the SDF nodes/operators from this pack via their Geometry Nodes equivalents in Blender 3.3 or above ([more details](https://twitter.com/lateasusual_/status/1537792086719795201))
