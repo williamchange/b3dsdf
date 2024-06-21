@@ -12,7 +12,7 @@ These nodes can be used by appending from the .blend file or use them with the a
 
 The GPLv3 license ([LICENSE](LICENSE)) only applies to the python add-on source code.
 
-Included asset file (`sdf_nodegroups.blend`) in this repository is under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) ([LICENSE_ASSET](LICENSE_ASSET)).
+Included asset file (`sdf_nodegroups.blend`) in this repository is under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) ([LICENSE_ASSET](LICENSE_ASSET.md)).
 
 ## Geometry Nodes (Volume Cube)
 
