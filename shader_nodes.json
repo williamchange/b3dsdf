@@ -18,6 +18,7 @@
         "sdEllipse",
         "sdEllipse N",
         "sdFlat Joint",
+	"sdHyberbola",
         "sdRound Joint",
         "sdHeart",
         "sdHexagon",
