@@ -37,7 +37,7 @@ List of available nodegroups can be found in [shader_nodes.json](https://github.
 ## References
 
 - [Erindale's Toolkit (original add menu logic)](https://erindale.gumroad.com/l/erintools)
-- [D6464 Blender SDF patch](https://developer.blender.org/D6464)
+- [D6464 Blender SDF patch](https://archive.blender.org/developer/D6464)
 - [Additonal references / Shadertoy playlist](https://www.shadertoy.com/playlist/7cjGR1)
 - [Inigo Quilez - 3D Distance Functions](https://iquilezles.org/articles/distfunctions/)
 - [Inigo Quilez - 2D Distance Functions](https://iquilezles.org/articles/distfunctions2d/)
