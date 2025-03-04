@@ -65,6 +65,9 @@
         "sdVesica Segment",
         "sdWedge"
     ],
+    "2D Primitives Gradient": [
+	"sdgCircle"
+    ],
     "2D Primitives L-inf": [
         "sdBoxLN",
         "sdCircleLN",
