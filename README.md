@@ -41,5 +41,6 @@ List of available nodegroups can be found in [shader_nodes.json](https://github.
 - [Additonal references / Shadertoy playlist](https://www.shadertoy.com/playlist/7cjGR1)
 - [Inigo Quilez - 3D Distance Functions](https://iquilezles.org/articles/distfunctions/)
 - [Inigo Quilez - 2D Distance Functions](https://iquilezles.org/articles/distfunctions2d/)
-- [Inigo Quilez - 2D distance functions in L-infinity norm](https://iquilezles.org/articles/distfunctions2dlinf/)
+- [Inigo Quilez - 2D Distance Functions in L-infinity norm](https://iquilezles.org/articles/distfunctions2dlinf/)
+- [Inigo Quilez - 2D Distance Functions and gradients](https://iquilezles.org/articles/distgradfunctions2d/)
 - [hg_sdf glsl library](https://mercury.sexy/hg_sdf/)
