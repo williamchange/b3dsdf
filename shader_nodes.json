@@ -68,7 +68,8 @@
     "2D Primitives Gradient": [
 	"sdgArc",
 	"sdgBox",
-	"sdgCircle"
+	"sdgCircle",
+	"sdgPie"
     ],
     "2D Primitives L-inf": [
         "sdBoxLN",
