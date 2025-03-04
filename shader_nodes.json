@@ -69,7 +69,8 @@
 	"sdgArc",
 	"sdgBox",
 	"sdgCircle",
-	"sdgPie"
+	"sdgPie",
+	"sdgSegment"
     ],
     "2D Primitives L-inf": [
         "sdBoxLN",
