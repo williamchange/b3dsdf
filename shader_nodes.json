@@ -66,6 +66,7 @@
         "sdWedge"
     ],
     "2D Primitives Gradient": [
+	"sdgArc",
 	"sdgBox",
 	"sdgCircle"
     ],
