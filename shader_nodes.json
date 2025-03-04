@@ -137,6 +137,10 @@
         "opGroove@Intersection with groove cut out",
         "opTongue@Intersection with tongue cut out"
     ],
+    "SDF Gradient Ops": [ 
+	"sdgDilate",
+	"sdgOnion"
+    ],
     "SDF Union": [
         "opUnion",
         "opUnion Soft",
