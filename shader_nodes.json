@@ -192,5 +192,5 @@
         "opMap 0-1@Map [-1,1] to UV Range [0,1]"
     ],
     "Tiling_": ["opHexagon Grid"],
-    "Misc": ["sdViewer"]
+    "Misc": ["sdViewer","sdgViewer"]
 }
