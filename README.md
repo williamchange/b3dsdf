@@ -30,7 +30,7 @@ Download the latest zip file from the [release page](https://github.com/williamc
 Alternatively you have the option to install directly from source (code > download zip, or via repo cloning) which might include new features/nodes.
 
 >[!NOTE]
->From Blender 4.2 LTS and onwards add-ons are now Extensions, however you can still use this by [installing as a legacy add-on](https://docs.blender.org/manual/en/4.2/editors/preferences/extensions.html#install-legacy-add-on). There are no plans to release this as an extension for the time being.
+>While there are no plans to release this as an extenson for the time being, you can still use this by [installing as a legacy add-on](https://docs.blender.org/manual/en/4.2/editors/preferences/extensions.html#install-legacy-add-on).
 
 ## Nodegroups
 
