@@ -25,7 +25,7 @@ Download the latest zip file from the [release page](https://github.com/williamc
 Sample illustration built using these nodegroups can be downloaded <a href="https://github.com/williamchange/b3dsdf/releases/download/v0.12/b3dsdf-demo-b45.blend">here</a>.
 
 >[!NOTE]
->While there are no plans to release this as an extenson for the time being, you can still [install as a legacy add-on](https://docs.blender.org/manual/en/4.2/editors/preferences/extensions.html#install-legacy-add-on).
+>While there are no plans to release this as an extension, you can still [install as a legacy add-on](https://docs.blender.org/manual/en/4.2/editors/preferences/extensions.html#install-legacy-add-on).
 
 ## Geometry Nodes (Volume Cube)
 
