@@ -22,14 +22,7 @@ Nodegroups can be used by appending from the .blend file or use them with the ad
 
 Download the latest zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install as normal. There's no need to unzip before installing. You might have to restart Blender for changes to take effect after installing.
 
-Sample illustration built using these nodegroups can be downloaded <a href="https://github.com/williamchange/b3dsdf/releases/download/v0.12/b3dsdf-demo-b45.blend">here</a>.
-
->[!NOTE]
->While there are no plans to release this as an extension, you can still [install as a legacy add-on](https://docs.blender.org/manual/en/4.2/editors/preferences/extensions.html#install-legacy-add-on).
-
-## Geometry Nodes (Volume Cube)
-
-It is possible to use the SDF nodes/operators from this pack via their Geometry Nodes equivalents in Blender 3.3+ ([details](https://twitter.com/lateasusual_/status/1537792086719795201)). The shader nodes in this pack can't be used directly, but it's possible to convert them with an add-on, for example Val Barashkov's [Blender Booster](https://vsb.gumroad.com/l/blender_booster).
+Sample illustration built using some of these nodegroups can be downloaded <a href="https://github.com/williamchange/b3dsdf/releases/download/v0.12/b3dsdf-demo-b45.blend">here</a>.
 
 ## License
 
