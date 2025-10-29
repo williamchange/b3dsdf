@@ -2,7 +2,7 @@
     <h1 align = "center">b3dsdf</h1>
 </p>
 <p align="center">
-    Toolkit of SDFs and utility nodes for Blender 2.83+
+    Toolkit of SDFs/vector utility nodes for Blender 2.83+
 </p>
 <p align="center">
     <a href="https://github.com/williamchange/b3dsdf/releases/download/v0.12/b3dsdf-demo-b45.blend"><img width="960" alt="b3dsdf-sample" src="https://github.com/user-attachments/assets/544603d8-109b-4f1e-bd55-7bffb870f391" /></a>
@@ -13,7 +13,7 @@
 Nodegroups can be used by appending from the .blend file or use them with the addon which adds a menu in the material editor.
 
 <p align="center">
-    <img width="900" alt="sample" src="https://github.com/user-attachments/assets/e9f7e6ec-06c4-40e4-a93c-82945d3aaf63" />
+    <img width="1200" alt="sample" src="https://github.com/user-attachments/assets/e9f7e6ec-06c4-40e4-a93c-82945d3aaf63" />
 </p>
 
 <a href="https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json">![sdf_nodegroups](https://github.com/user-attachments/assets/7330815c-7091-41c6-95e4-7ab18597a767)</a>
