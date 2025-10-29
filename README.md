@@ -1,40 +1,39 @@
-
 <p align="center">
     <h1 align = "center">b3dsdf</h1>
 </p>
-
 <p align="center">
-    Toolkit of 2D/3D SDFs and utility nodegroups for the material editor in Blender 2.83+
+    Toolkit of SDFs and utility nodes for Blender 2.83+
+</p>
+<p align="center">
+    <a href="https://github.com/williamchange/b3dsdf/releases/download/v0.12/b3dsdf-demo-b45.blend"><img width="960" alt="b3dsdf-sample" src="https://github.com/user-attachments/assets/544603d8-109b-4f1e-bd55-7bffb870f391" /></a>
 </p>
 
+## Nodegroups
+
+Nodegroups can be used by appending from the .blend file or use them with the addon which adds a menu in the material editor.
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/830253/169821105-1d13020e-6895-4402-aa0c-2c94db69867f.gif">
+    <img width="900" alt="sample" src="https://github.com/user-attachments/assets/e9f7e6ec-06c4-40e4-a93c-82945d3aaf63" />
 </p>
 
-## License
+<a href="https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json">![sdf_nodegroups](https://github.com/user-attachments/assets/7330815c-7091-41c6-95e4-7ab18597a767)</a>
 
-The GPLv3 license ([LICENSE](LICENSE)) only applies to the python add-on source code.
+## Install
 
-Included asset file (`sdf_nodegroups.blend`) in this repository is under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) ([LICENSE_ASSET](LICENSE_ASSET.md)).
+Download the latest zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install as normal. There's no need to unzip before installing. You might have to restart Blender for changes to take effect after installing.
 
-## Geometry Nodes (Volume Cube)
-
-It's also possible to use the SDF nodes/operators from this pack via their Geometry Nodes equivalents in Blender 3.3 or above ([more details](https://twitter.com/lateasusual_/status/1537792086719795201)). The shader nodes in this pack can't be used directly, but it's possible to convert them for use with an add-on, for example [Val Barashkov's](https://twitter.com/ValeraBarashkov) [Blender Booster](https://vsb.gumroad.com/l/blender_booster).
-
-## Installation
-
-Download the latest zip file from the [release page](https://github.com/williamchange/b3dsdf/releases) and install as normal. There's no need to unzip before installing. You might have to restart Blender for changes to take effect after installing / uninstalling.
+Sample illustration built using these nodegroups can be downloaded <a href="https://github.com/williamchange/b3dsdf/releases/download/v0.12/b3dsdf-demo-b45.blend">here</a>.
 
 >[!NOTE]
 >While there are no plans to release this as an extenson for the time being, you can still [install as a legacy add-on](https://docs.blender.org/manual/en/4.2/editors/preferences/extensions.html#install-legacy-add-on).
 
-## Nodegroups
+## Geometry Nodes (Volume Cube)
 
-Nodes can be used by appending from the .blend file or use them with the addon which adds a menu in the shader editor. They can also be used with the asset browser by adding the .blend as an asset library and marking them as assets.
+It is possible to use the SDF nodes/operators from this pack via their Geometry Nodes equivalents in Blender 3.3+ ([details](https://twitter.com/lateasusual_/status/1537792086719795201)). The shader nodes in this pack can't be used directly, but it's possible to convert them with an add-on, for example Val Barashkov's [Blender Booster](https://vsb.gumroad.com/l/blender_booster).
 
-List of available nodegroups can be found in [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json)
+## License
 
-![sdf_nodegroups](https://github.com/user-attachments/assets/7330815c-7091-41c6-95e4-7ab18597a767)
+GPLv3 license ([LICENSE](LICENSE)) only applies to the python add-on source code. The Included asset file (`sdf_nodegroups.blend`) in this repository is under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)([LICENSE_ASSET](LICENSE_ASSET.md)).
 
 ## References
 
