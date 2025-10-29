@@ -11,8 +11,6 @@
   <img src="https://user-images.githubusercontent.com/830253/169821105-1d13020e-6895-4402-aa0c-2c94db69867f.gif">
 </p>
 
-Nodes can be used by appending from the .blend file or use them with the addon which adds a menu in the shader editor. They can also be used with the asset browser by adding the .blend as an asset library and marking them as assets.
-
 ## License
 
 The GPLv3 license ([LICENSE](LICENSE)) only applies to the python add-on source code.
@@ -35,6 +33,8 @@ Alternatively you have the option to install directly from source (code > downlo
 >From Blender 4.2 LTS and onwards add-ons are now Extensions, however you can still use this by [installing as a legacy add-on](https://docs.blender.org/manual/en/4.2/editors/preferences/extensions.html#install-legacy-add-on). There are no plans to release this as an extension for the time being.
 
 ## Nodegroups
+
+Nodes can be used by appending from the .blend file or use them with the addon which adds a menu in the shader editor. They can also be used with the asset browser by adding the .blend as an asset library and marking them as assets.
 
 List of available nodegroups can be found in [shader_nodes.json](https://github.com/williamchange/b3dsdf/blob/master/shader_nodes.json). Examples (w/ images) can be found in the [wiki(incomplete)](https://github.com/williamchange/b3dsdf/wiki/Examples).
 
