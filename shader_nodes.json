@@ -9,7 +9,7 @@
         "sdCircle",
         "sdCorner",
         "sdCosine",
-	"sdCoolS",
+        "sdCoolS",
         "sdCross",
         "sdCut Disk",
         "sdCircle Wave",
@@ -18,7 +18,7 @@
         "sdEllipse",
         "sdEllipse N",
         "sdFlat Joint",
-	"sdHyberbola",
+        "sdHyberbola",
         "sdRound Joint",
         "sdHeart",
         "sdHexagon",
@@ -66,11 +66,11 @@
         "sdWedge"
     ],
     "2D Primitives Gradient": [
-	"sdgArc",
-	"sdgBox",
-	"sdgCircle",
-	"sdgPie",
-	"sdgSegment"
+    		"sdgArc",
+      	"sdgBox",
+       "sdgCircle",
+       "sdgPie",
+       "sdgSegment"
     ],
     "2D Primitives L-inf": [
         "sdBoxLN",
